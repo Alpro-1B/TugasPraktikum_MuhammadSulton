@@ -19,6 +19,7 @@ int main()
     cin >> kelas;   //Input kelas
     cout << "Nilai : ";
     cin >> score;   //Input nilai
+    cout << kelas;
 
     // Menggunakan if-else untuk suatu untuk mengevaluasi nilai skor yang telah ditentukan
     if (score >= 90 && score <= 100) // Jika score bernilai 0-100, maka nilai A.

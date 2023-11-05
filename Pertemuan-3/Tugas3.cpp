@@ -12,7 +12,7 @@ int main() {
     cout << "2. Persegi panjang" << endl;
     cout << "3. Segitiga" << endl;
     cout << "Bangun datar yang akan anda hitung : ";
-    cin >> userOption; //Memasukkan input dari bangun datar yang akan kita hitung (a, b, c)
+    cin >> userOption; //Memasukkan input dari bangun datar yang akan kita hitung (1, 2, 3)
 
     //Proses mencari luas bangun datar tersebut menggunakan switch case
     switch (userOption)

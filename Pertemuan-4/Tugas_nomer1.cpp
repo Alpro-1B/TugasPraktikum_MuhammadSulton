@@ -1,7 +1,6 @@
 #include <iostream>
 
 using namespace std;
-
 int main() {
     //Variabel untuk input yang dilakukan oleh user
     int pilihanUser;

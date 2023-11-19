@@ -2,6 +2,8 @@
 
 using namespace std;
 int main()
+
+
 {
     // Mendeklarasikan variabel
     string namaDepan, namaBelakang, kelas; // Menggunakan string karena yang kita input adalah sebuah kalimat
